@@ -4,5 +4,5 @@
 
 En este repositorio encontrarás los materiales de la plática en el [Simposio Peruano de Deep Learning 2021](https://sites.google.com/view/spdl-2021).
 
-- [Diapositivas](slides/2_mtl.pdf)
-- [Libreta](notebooks)
+- [Diapositivas](diapos.pdf)
+- [Libreta](siamese.ipynb)
